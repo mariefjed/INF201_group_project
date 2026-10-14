@@ -1,0 +1,15 @@
+kriterier:
+  temperatur_terskel_C: 20.0
+  minimum_sammenhengende_dager: 3
+totalt_antall_varmebolger: 2
+varmebolger_detaljer:
+- start_dato: '2025-07-11'
+  slutt_dato: '2025-07-13'
+  varighet_dager: 3
+  maks_temp: 22.6
+  snitt_temp: 21.2
+- start_dato: '2025-07-15'
+  slutt_dato: '2025-07-26'
+  varighet_dager: 12
+  maks_temp: 23.7
+  snitt_temp: 22.15
