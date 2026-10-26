@@ -1,4 +1,4 @@
-Sammendrag av teknisk støtte og feilsøking i prosjektet
+Sammendrag av teknisk støtte og feilsøking i prosjektet:
 Gjennom arbeidet med gruppeprosjektet i INF201 har jeg fått veiledning til å løse tekniske utfordringer knyttet til miljøoppsett, Git-versjonskontroll, datasammenslåing og sikker håndtering av nøkler.
 Prosjektet og utfordringene som ble løst:
 Sikker håndtering av API-nøkkel (client_id):
