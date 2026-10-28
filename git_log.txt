@@ -1,0 +1,71 @@
+* 9cb3a4a - Marie Fjellbakk-Edfeldt, 5 minutes ago : Diskusjon og chatlog
+* a930cd3 - henrikfahljo, 15 minutes ago : endret desimaler
+* a200478 - henrikfahljo, 25 minutes ago : lagt til hvor de har kjøpt
+*   47a2324 - henrikfahljo, 32 minutes ago : Merge branch 'Deliverable02' of https://github.com/mariefjed/INF201_group_project into Deliverable02
+|\  
+| *   d12f48b - Marie Fjellbakk-Edfeldt, 41 minutes ago : Merge branch 'Deliverable02' of https://github.com/mariefjed/INF201_group_project into Deliverable02
+| |\  
+| * | 9277c2a - Marie Fjellbakk-Edfeldt, 60 minutes ago : Ny filsti
+* | | eb99706 - henrikfahljo, 32 minutes ago : fiksa NOK
+| |/  
+|/|   
+* |   478d2f4 - henrikfahljo, 48 minutes ago : Merge branch 'Deliverable02' of https://github.com/mariefjed/INF201_group_project into Deliverable02
+|\ \  
+| * | 819521e - Henrik Johnsen, 49 minutes ago : Delete C:\ directory
+| * | 537ed52 - Marie Fjellbakk-Edfeldt, 85 minutes ago : Legger til store_config.json og oppdateringer
+| |/  
+* / 160ab0e - henrikfahljo, 53 minutes ago : gjort oppgave 5
+|/  
+* cbf147c - henrikfahljo, 2 hours ago : task 3-4
+* ce0f82c - henrikfahljo, 2 hours ago : lagt inn task 3 og 4
+* e768518 - Marie Fjellbakk-Edfeldt, 24 hours ago : Start task 5
+* 65f5158 - Marie Fjellbakk-Edfeldt, 24 hours ago : task2
+* 0691f99 - Marie Fjellbakk-Edfeldt, 25 hours ago : Task1
+* 02a64d6 - Marie Fjellbakk-Edfeldt, 2 days ago : Add log file reader and parser functions with error handling
+* 67ca47f - Marie Fjellbakk-Edfeldt, 2 days ago : Datagenerering
+* b67c3f1 - Marie Fjellbakk-Edfeldt, 2 days ago : endringer
+* da4d5fe - Marie Fjellbakk-Edfeldt, 2 days ago : Nytt dokument
+* beb2fc1 - Marie Fjellbakk-Edfeldt, 2 days ago : test
+* fb2c162 - Marie Fjellbakk-Edfeldt, 2 days ago : test
+* 1487945 - Marie Fjellbakk-Edfeldt, 13 days ago : Refactor code structure for improved readability and maintainability
+* 1b4922c - Marie Fjellbakk-Edfeldt, 2 weeks ago : Implement code changes to enhance functionality and improve performance
+* 66d20ab - Marie Fjellbakk-Edfeldt, 2 weeks ago : Fjern feildata
+* a777d7e - Marie Fjellbakk-Edfeldt, 2 weeks ago : Rydder opp og ignorerer .venv-1
+* aad45e9 - Marie Fjellbakk-Edfeldt, 2 weeks ago : oppdaterer
+*   2608d75 - Marie Fjellbakk-Edfeldt, 2 weeks ago : Merge branch 'main' of https://github.com/mariefjed/INF201_group_project
+|\  
+| * 13ed781 - henrikfahljo, 2 weeks ago : endret på oppgave 2
+| *   c31d0f7 - henrikfahljo, 2 weeks ago : Merge branch 'main' of https://github.com/mariefjed/INF201_group_project
+| |\  
+| * | c323707 - henrikfahljo, 2 weeks ago : endret på oppgave 4
+* | | f276889 - Marie Fjellbakk-Edfeldt, 2 weeks ago : slettet filer
+| |/  
+|/|   
+* | 5d11e5e - Marie Fjellbakk-Edfeldt, 2 weeks ago : Merge endringer fra GitHub
+|\| 
+| * 4a93c31 - henrikfahljo, 2 weeks ago : Fjernet undermappen INF201_group_project fra GitHub
+| * 1b6841e - henrikfahljo, 2 weeks ago : Slettet output.json
+| * 94a2ba1 - henrikfahljo, 2 weeks ago : Fjernet ukeoppgaver og uønskede filer fra repository
+| *   7b6e15b - henrikfahljo, 2 weeks ago : Merge branch 'main' of https://github.com/mariefjed/INF201_group_project
+| |\  
+| * | 16a466a - henrikfahljo, 2 weeks ago : henrik
+| * | aa07c7e - henrikfahljo, 2 weeks ago : gjort oppgavene
+| * | cc1ef24 - henrikfahljo, 2 weeks ago : gjort oppgavene
+| * |   7d29c10 - Marie Fjellbakk-Edfeldt, 2 weeks ago : Merge branch 'main' of https://github.com/mariefjed/INF201_group_project
+| |\ \  
+| | * | 65d3829 - henrikfahljo, 3 weeks ago : endret navn
+| | * | 277fed5 - henrikfahljo, 3 weeks ago : kode for oppgave 2
+| | * | f38b615 - henrikfahljo, 3 weeks ago : lå til grader
+| | * | f4fdd31 - henrikfahljo, 3 weeks ago : Lå til grader
+| | * | f8dbf4e - henrikfahljo, 3 weeks ago : Lagd kode
+| | * | 7159ac5 - henrikfahljo, 3 weeks ago : legger til testfil
+| | * | 3cedbc6 - Marie Fjellbakk-Edfeldt, 3 weeks ago : Create Deliverable_1
+| | * | 1a803fc - Marie Fjellbakk-Edfeldt, 3 weeks ago : Initial commit
+| |  /  
+| * | 955e94e - Marie Fjellbakk-Edfeldt, 3 weeks ago : add hello_git
+| * | 242a386 - Marie Fjellbakk-Edfeldt, 4 weeks ago : add hello script
+|  /  
+* | b9189aa - Marie Fjellbakk-Edfeldt, 2 weeks ago : oppdater
+* | 8a266c8 - Marie Fjellbakk-Edfeldt, 2 weeks ago : oppdater koden
+|/  
+* cc3c1f2 - Marie Fjellbakk-Edfeldt, 2 weeks ago : Initialiserer prosjektet på nytt med kun prosjektfiler
