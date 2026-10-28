@@ -2,91 +2,91 @@
   {
     "item":"Cappuccino",
     "timestamp":"2026-10-15T07:00:00.000",
-    "price":1159.11
+    "price":1209.68
   },
   {
     "item":"Cappuccino",
     "timestamp":"2026-10-15T08:00:00.000",
-    "price":1264.18
+    "price":816.64
   },
   {
     "item":"Cappuccino",
     "timestamp":"2026-10-15T09:00:00.000",
-    "price":103.04
+    "price":124.75
   },
   {
     "item":"Croissant",
     "timestamp":"2026-10-15T07:00:00.000",
-    "price":909.28
+    "price":710.59
   },
   {
     "item":"Croissant",
     "timestamp":"2026-10-15T08:00:00.000",
-    "price":891.95
+    "price":779.05
   },
   {
     "item":"Croissant",
     "timestamp":"2026-10-15T09:00:00.000",
-    "price":86.15
+    "price":208.92
   },
   {
     "item":"Espresso",
     "timestamp":"2026-10-15T07:00:00.000",
-    "price":860.69
+    "price":685.25
   },
   {
     "item":"Espresso",
     "timestamp":"2026-10-15T08:00:00.000",
-    "price":530.27
+    "price":439.42
   },
   {
     "item":"Espresso",
     "timestamp":"2026-10-15T09:00:00.000",
-    "price":35.83
+    "price":125.33
   },
   {
     "item":"Latte",
     "timestamp":"2026-10-15T07:00:00.000",
-    "price":898.72
+    "price":798.81
   },
   {
     "item":"Latte",
     "timestamp":"2026-10-15T08:00:00.000",
-    "price":1128.18
+    "price":951.23
   },
   {
     "item":"Latte",
     "timestamp":"2026-10-15T09:00:00.000",
-    "price":194.87
+    "price":172.06
   },
   {
     "item":"Muffin",
     "timestamp":"2026-10-15T07:00:00.000",
-    "price":561.05
+    "price":653.21
   },
   {
     "item":"Muffin",
     "timestamp":"2026-10-15T08:00:00.000",
-    "price":1014.93
+    "price":940.73
   },
   {
     "item":"Muffin",
     "timestamp":"2026-10-15T09:00:00.000",
-    "price":50.94
+    "price":123.5
   },
   {
     "item":"Sandwich",
     "timestamp":"2026-10-15T07:00:00.000",
-    "price":1936.91
+    "price":1787.2
   },
   {
     "item":"Sandwich",
     "timestamp":"2026-10-15T08:00:00.000",
-    "price":2126.2
+    "price":1024.26
   },
   {
     "item":"Sandwich",
     "timestamp":"2026-10-15T09:00:00.000",
-    "price":15.62
+    "price":350.77
   }
 ]
