@@ -93,8 +93,8 @@ class Warrior(Character):
 
     def __repr__(self) -> str:
         return (
-            f"<Warrior name={self.name} hp={self.hp}/{self.hp_max}"
-            f" armor={self.armor} weapon={self.weapon}>"
+            f"Warrior name={self.name} hp={self.hp}/{self.hp_max}"
+            f" armor={self.armor} weapon={self.weapon}"
         )
 
 
