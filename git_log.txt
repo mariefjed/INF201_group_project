@@ -1,0 +1,11 @@
+*   e1a9033 - Marie Fjellbakk-Edfeldt, 6 minutes ago : Merge branch 'deliverbale03' of https://github.com/mariefjed/INF201_group_project into deliverbale03
+|\  
+| * 7842bec - henrikfahljo, 11 hours ago : slettet readme trenger den ikke
+* | d52b987 - Marie Fjellbakk-Edfeldt, 6 minutes ago : oppdatert
+|/  
+* a8bea1f - Marie Fjellbakk-Edfeldt, 21 hours ago : removed stuff
+* c27749a - Marie Fjellbakk-Edfeldt, 21 hours ago : endringer
+* 416d89e - Marie Fjellbakk-Edfeldt, 21 hours ago : removed
+* e5850e0 - Marie Fjellbakk-Edfeldt, 21 hours ago : la til oppsummering av AI
+* fb07317 - Marie Fjellbakk-Edfeldt, 22 hours ago : removed files
+* 5309e00 - henrikfahljo, 3 days ago : Legger til deliverable 03
