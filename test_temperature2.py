@@ -1,4 +1,4 @@
-from temperature import Temperature
+from temperature2 import Temperature
 import pytest
 
 
